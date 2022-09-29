@@ -15,4 +15,4 @@ export const AppRouter = () => {
 
         </Routes>
     )
-}
+};
